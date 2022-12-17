@@ -1,4 +1,4 @@
 # Básisos de accesibilidad web
 
 ## Deploy
-TBD
+https://basicos-accesibilidad.netlify.app/
